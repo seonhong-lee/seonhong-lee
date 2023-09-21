@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+## 👨🏻‍🏫 Teaching Experience
+|University|Content|
+|---|---|
+|Sungkyunkwan Univ.|Introduction to Programming|
+|Sungkyunkwan Univ.|Deep Learning|
+|Hanyang Univ.| Deep Learning (Special Lecture)|
 ## 🏫 Education
 |Date|Content|
 |---|---|
