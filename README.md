@@ -1,22 +1,22 @@
 ### 👋 안녕하세요! NLP 연구에 관심이 많은 이선홍입니다. 
-<a href="https://ie2ai.tistory.com/alpox.dev">
+<a href="https://ie2ai.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=Tistory&link=https://ie2ai.tistory.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=Tistory&link=https://ie2ai.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.researchgate.net/profile/Seon-Hong-Lee-2/alpox.dev">
+<a href="https://www.researchgate.net/profile/Seon-Hong-Lee-2">
     <img 
-        src="http://img.shields.io/badge/-ResearchGate-black?style=flat&logo=ResearchGate&link=https://https://www.researchgate.net/profile/Seon-Hong-Lee-2/alpox.dev/"
+        src="http://img.shields.io/badge/-ResearchGate-black?style=flat&logo=ResearchGate&link=https://https://www.researchgate.net/profile/Seon-Hong-Lee-2"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://scholar.google.co.kr/citations?user=UorToykAAAAJ&hl=ko/alpox.dev">
+<a href="https://scholar.google.co.kr/citations?user=UorToykAAAAJ&hl=ko">
     <img 
-        src="http://img.shields.io/badge/-Google Scholar-black?style=flat&logo=Google Scholar&link=https://https://scholar.google.co.kr/citations?user=UorToykAAAAJ&hl=ko/alpox.dev/"
+        src="http://img.shields.io/badge/-Google Scholar-black?style=flat&logo=Google Scholar&link=https://https://scholar.google.co.kr/citations?user=UorToykAAAAJ&hl=ko"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.linkedin.com/in/seonhong-lee-90606a292//alpox.dev">
+<a href="https://www.linkedin.com/in/seonhong-lee-90606a292">
     <img 
-        src="http://img.shields.io/badge/-LinkedIn-black?style=flat&logo=LinkedIn&link=https://https://https://www.linkedin.com/in/seonhong-lee-90606a292//alpox.dev/"
+        src="http://img.shields.io/badge/-LinkedIn-black?style=flat&logo=LinkedIn&link=https://https://https://www.linkedin.com/in/seonhong-lee-90606a292/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
