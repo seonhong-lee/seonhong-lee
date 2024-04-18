@@ -1,4 +1,4 @@
-### 👋 안녕하세요! NLP 연구에 관심이 많은 이선홍입니다. 
+### 👋☺️ 안녕하세요! NLP 연구에 관심이 많은 이선홍입니다. 
 <a href="https://ie2ai.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=Tistory&link=https://ie2ai.tistory.com"
@@ -19,6 +19,9 @@
         src="http://img.shields.io/badge/-LinkedIn-black?style=flat&logo=LinkedIn&link=https://https://https://www.linkedin.com/in/seonhong-lee-90606a292/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<br/><br/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=codingjowa)](https://solved.ac/codingjowa)
 
 ## 📚 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-3B02A?style=plastic&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy&logoColor=white"/>
