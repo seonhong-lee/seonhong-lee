@@ -42,7 +42,7 @@
 ## 🏫 Education
 |Date|Content|
 |---|---|
-|2021.03 ~ | 성균관대학교 인공지능융합학과 석박통합과정|
+|2021.03 ~ 2025.02| 성균관대학교 인공지능융합학과 박사졸업|
 |2017.03 ~ 2021.02| 아주대학교 산업공학과 졸업|
 <!--
 **seonhong-lee/seonhong-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
